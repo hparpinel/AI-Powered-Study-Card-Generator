@@ -1,10 +1,10 @@
-# Smart Notes - AI-Powered Study Card Generator
+# DeMemoria - AI-Powered Study Card Generator
 
 > Transform your documents into interactive flashcards with AI 
 
-## What is Smart Notes?
+## What is De Memoria?
 
-Smart Notes is an intelligent study companion that converts your documents (PDFs, text files) into interactive flashcards using AI technology. Whether you're studying for exams, learning new concepts, or reviewing materials, Smart Notes makes it easy to create and practice with personalized flashcard decks.
+De Memoria is an intelligent study companion that converts your documents (PDFs, text files) into interactive flashcards using AI technology. Whether you're studying for exams, learning new concepts, or reviewing materials, De Memoria makes it easy to create and practice with personalized flashcard decks.
 
 ## Key Features
 
@@ -18,7 +18,7 @@ Smart Notes is an intelligent study companion that converts your documents (PDFs
 
 ## Live Application
 
-**[Try Smart Notes Live →](https://smart-notes-59847.web.app)**
+**[Try De Memoria Live →](https://dememoria.app/)**
 
 *Experience the power of AI-driven studying directly in your browser!*
 
